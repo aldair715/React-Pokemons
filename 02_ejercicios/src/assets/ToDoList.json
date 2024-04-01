@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "task": "Hacer lo siguiente",
+    "description": "Lorem ipsum lorem ipsfdafasdfafasdffffffffff lorem ipus dsfsddsafasfaf adfsdasfafdsa",
+    "date_task": "2024-03-02T19:30",
+    "category": "personal"
+  },
+  {
+    "id": 2,
+    "task": "Hacer lo siguiente 2",
+    "description": "Lorem ipsum lorem ipsfdafasdfafasdffffffffff lorem ipus dsfsddsafasfaf adfsdasfafdsa",
+    "date_task": "2024-03-10T19:30",
+    "category": "personal"
+  }
+]
